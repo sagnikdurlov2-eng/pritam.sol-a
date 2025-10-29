@@ -4,6 +4,8 @@
 ## 🧩 Project Description
 This project demonstrates a **basic Web3 smart contract** setup, showcasing how blockchain-based logic can be deployed and interacted with seamlessly.  
 It serves as a great starting point for beginners who want to learn how smart contracts work, get familiar with Solidity, and understand the deployment process on blockchain networks.
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/14686084-5744-46c9-956e-3bb33640827d" />
+
 
 ## 💡 What It Does
 The project includes a **Solidity smart contract** that interacts with the blockchain to perform essential functions such as reading, writing, and managing decentralized data.  
